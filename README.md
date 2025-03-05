@@ -1,0 +1,1 @@
+This repository contains projects, exercises, and notes from my online web development course. It includes HTML, CSS, JavaScript, and other related technologies as I progress through the curriculum. Each project reflects new concepts and skills learned along the way. Feel free to explore, learn, and contribute!
